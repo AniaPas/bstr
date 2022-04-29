@@ -1,0 +1,59 @@
+body {
+   
+    width: 90vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    font-family: 'Raleway', sans-serif;
+}  
+/*
+.selector-for-some-widget {
+        box-sizing: content-box;
+        padding-top: 50px;
+      
+} 
+        */
+       
+/*form-control--main {
+    font-size: 0.7rem;
+    color: rgba(0, 0, 0, 0.3);
+    content: #912020;
+    padding: 10px;
+    
+}*/
+/*::placeholder {
+ 
+    font-size: 0.7rem;
+    color: rgba(0, 0, 0, 0);
+
+}*/
+.container--header { 
+    background-image: url(form-background.jpg);
+    background-size: cover;
+}
+.h2form {
+    font-size: 1.3rem;
+    color: white;
+    font-weight: 600;
+}
+.lh-1 {
+    font-size: 0.7rem;
+    color: white;
+    margin: 0;
+}
+.formhead {
+    background-color: rgba(0, 0, 0, 0.35);
+}
+.mb-3-form {
+margin:0;
+padding:0 15px;
+}
+
+.signinform{ 
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.form-control--main{
+    padding-left: 0;
+    color:black;
+    width: 202px;
+}
+
